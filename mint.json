@@ -28,7 +28,7 @@
     "tabs": [
         {
             "name": "Organization API Reference",
-            "url": "organization_api_reference"
+            "url": "organization_api_reference/endpoints"
         }
     ],
     "anchors": [
@@ -67,17 +67,17 @@
         {
             "group": "Organization API",
             "pages": [
-                "organization_api_reference/get-openapijson",
-                "organization_api_reference/get-organization",
-                "organization_api_reference/post-organization",
-                "organization_api_reference/get-organization-1",
-                "organization_api_reference/put-organization",
-                "organization_api_reference/delete-organization",
-                "organization_api_reference/post-organization-accept_invite",
-                "organization_api_reference/post-organization-invite",
-                "organization_api_reference/delete-organization-member",
-                "organization_api_reference/post-organization-member-role",
-                "organization_api_reference/delete-organization-member-role"
+                "organization_api_reference/endpoints/get-openapijson",
+                "organization_api_reference/endpoints/get-organization",
+                "organization_api_reference/endpoints/post-organization",
+                "organization_api_reference/endpoints/get-organization-1",
+                "organization_api_reference/endpoints/put-organization",
+                "organization_api_reference/endpoints/delete-organization",
+                "organization_api_reference/endpoints/post-organization-accept_invite",
+                "organization_api_reference/endpoints/post-organization-invite",
+                "organization_api_reference/endpoints/delete-organization-member",
+                "organization_api_reference/endpoints/post-organization-member-role",
+                "organization_api_reference/endpoints/delete-organization-member-role"
             ]
         }
     ],
